@@ -11,5 +11,5 @@
 ---
 > --Interested? or Want to get one?--
 #### follow my Wechat Official Account and send private message to me!
-![OA.png](<img width="255" alt="OA_副本" src="https://github.com/Esperaa/meaidevice/assets/156643030/228ad1d2-c708-4956-82b1-a82b929415d9">
-)
+<img width="255" alt="OA_副本" src="https://github.com/Esperaa/meaidevice/assets/156643030/228ad1d2-c708-4956-82b1-a82b929415d9">
+
