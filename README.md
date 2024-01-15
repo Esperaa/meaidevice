@@ -1,29 +1,9 @@
-# Osman 征婚网
+# Free Device for automatic fall detection 
+## Outdoor falling detection
+[Click here to see detailed info](https://mp.weixin.qq.com/s?__biz=Mzk0MTUyNzk0Mw==&mid=2247483810&idx=1&sn=8a458a1cdae362b880efcdbcb1219867&chksm=c2d0474af5a7ce5cccc3c3f7f2e4a55246ca912b6c0df61d225025c7af0a9ebb876062e20e0e#rd)
 
-## 成功男士大集合
+## Indoor falling detection 
+[Click here to view it!](https://mp.weixin.qq.com/s?__biz=Mzk0MTUyNzk0Mw==&mid=2247483810&idx=1&sn=8a458a1cdae362b880efcdbcb1219867&chksm=c2d0474af5a7ce5cccc3c3f7f2e4a55246ca912b6c0df61d225025c7af0a9ebb876062e20e0e#rd)
 
-### Luca.Gao --- the most handsome man in the universe--who wants a love
 
-**高锐**
-性别男
-
-颜值：999分
-
-身高：1米9
-
-择偶要求：prefer学生物的美丽学霸小姐姐鸭
-
-[高锐私房照请见此链接](https://www.baidu.com/)
-
-### Osman.Hao 李哲豪爽啊
-
-**李哲豪**
-
-性别男
-
-奥斯曼帝国创建者
-
-72最帅男神
-
-择偶要求：我爱富婆
 
