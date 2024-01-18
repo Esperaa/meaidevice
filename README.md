@@ -8,7 +8,7 @@
 
 
 
-## Our Products
+## Products
 
 ### Outdoor Fall-Accident Detection
 
