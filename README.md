@@ -6,6 +6,7 @@ _target audiences: The elderly, disables and children_
 
 ## **Outdoor falling detection**
 >👉[Click here to see detailed information!](https://mp.weixin.qq.com/s?__biz=Mzk0MTUyNzk0Mw==&mid=2247483863&idx=1&sn=d1e0ed87a6b0e2a22d3245d9fcdf6977&chksm=c2d0473ff5a7ce29acda677ce68c8e68d1afab0f85a8a9cf42ac1b9163411e5ec2c47cbe805d#rd)
+<img width="294" alt="截屏2024-01-18 15 08 10" src="https://github.com/heli-xu/findSVI/assets/156643030/95cd3e54-2301-44c6-bcdc-77d8b6194011">
 
 ---
 
