@@ -4,7 +4,7 @@
 ### Helping others is our initiative!
 
 
-**_These devices are developing for: The elderly, disables and children._**
+**_These devices are developed for: The elderly, disables and children._**
 
 
 
