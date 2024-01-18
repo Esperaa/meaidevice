@@ -1,7 +1,7 @@
 # _Free_ Device for automatic falling detection !
 ###### author:Esper.S
 ##### helping others is our initiative!
-_target audiences for : The elderly, disables and children_
+_target audiences: The elderly, disables and children_
 
 
 ## **Outdoor falling detection**
