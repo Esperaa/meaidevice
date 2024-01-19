@@ -36,7 +36,6 @@
 > 
 > Subscribe my Official Account「智能机械探索」and DM to me!
 > 
-> 👉[Here it is!](https://mp.weixin.qq.com/s/3Xchh00gAuqtd4T-2_1xkQ)
 
 <img width="255" alt="OA_副本" src="https://github.com/Esperaa/meaidevice/assets/156643030/228ad1d2-c708-4956-82b1-a82b929415d9">
 
