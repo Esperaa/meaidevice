@@ -1,7 +1,8 @@
 # FREE Device for AUTOMATIC Fall-Accident Detection !
 
 
-### Helping others is our initiative!
+### Initiative for developing these Free devices:
+###### Falling acidents often occur among the elderly people. When they are alone at home or elsewhere, falling could be dangerous to them because they could get injuried without prompt cures. Such accidents is happening everyday. Some technology companies have developed intelligent watches to solve this problem. However, in some undeveloped country, the elderlys may not have the opportunity to get these watches since they are quite expansive. Moreover, it is not easy for them to use. To solve this problem, I generated the idea: developing a automatic fall-accident detection device, which only has one function: precisely detect the accident and tell the emergence to their family members or others to get prompt cure or other treatments. This device is easy to use and free. Actually, the cost of making such a device is only 1/10 of buying a watch. I will keep improving the device in both the aspect of hardware and software to make it more useful and cheap.
 
 
 **_These devices are developed for: The elderly, disables and children._**
