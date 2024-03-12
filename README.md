@@ -27,7 +27,7 @@
 
 <img width="360" alt="截屏2024-01-18 15 01 19" src="https://github.com/bluesky-social/atproto/assets/156643030/d09b3bc9-fada-4138-8723-fb5afe85b3fd">
 
-👉[Click this link to access descriptions!]()
+👉[Click this link to access descriptions!](https://github.com/Esperaa/Description1)
 > 👉[Click here to view it on my Official Account!](https://mp.weixin.qq.com/s?__biz=Mzk0MTUyNzk0Mw==&mid=2247483810&idx=1&sn=8a458a1cdae362b880efcdbcb1219867&chksm=c2d0474af5a7ce5cccc3c3f7f2e4a55246ca912b6c0df61d225025c7af0a9ebb876062e20e0e#rd)👈
 
 
