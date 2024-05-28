@@ -33,7 +33,7 @@
 
 
 ---
-> [More comprehensive infos/descriptions are here!](https://esperaa.github.io/Moreinfos/)
+###### > [More comprehensive infos/descriptions are here!](https://esperaa.github.io/Moreinfos/)
 ---
 
 ## Follow Me!
