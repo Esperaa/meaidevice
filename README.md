@@ -6,13 +6,13 @@
 
 
 **_These devices are developed for: The elderly, disables and children._**
-
+###### (The picture loading could be slow...)
 
 
 
 
 ## Products
-###### (The picture loading could be slow...)
+
 ### Outdoor Fall-Accident Detection
 
 Click the picture access details on my Official Account!
