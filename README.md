@@ -30,7 +30,7 @@ Click the picture access details on my Official Account!
 
 
 ---
-###### > [More comprehensive infos/descriptions are here!](https://esperaa.github.io/Moreinfos/)
+######  [click.png](https://esperaa.github.io/Moreinfos/)
 ---
 
 ## Follow Me!
