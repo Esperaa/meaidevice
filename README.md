@@ -19,7 +19,7 @@ Click the picture access details on my Official Account!
 > 👉[<img width="300" alt="截屏2024-01-18 15 08 10" src="https://github.com/heli-xu/findSVI/assets/156643030/95cd3e54-2301-44c6-bcdc-77d8b6194011">](https://mp.weixin.qq.com/s?__biz=Mzk0MTUyNzk0Mw==&mid=2247483863&idx=1&sn=d1e0ed87a6b0e2a22d3245d9fcdf6977&chksm=c2d0473ff5a7ce29acda677ce68c8e68d1afab0f85a8a9cf42ac1b9163411e5ec2c47cbe805d#rd)👈
 
 ---
-
+> ######  [Chick here to access discriptions about the device!](https://esperaa.github.io/Moreinfos/)
 ### Indoor Fall-Accident Detection /planing to have my own version/
 
 
@@ -30,9 +30,12 @@ Click the picture access details on my Official Account!
 
 
 ---
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-######  [Desciptions are here!](https://esperaa.github.io/Moreinfos/)
----
+
+ 
+##### Feedbacks
+Want to tell me something about the product?/ Want to have one?
+###### 👉email to: Fall_detectemail@qq.com
+
 
 ## Follow Me!
 
