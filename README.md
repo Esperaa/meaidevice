@@ -45,7 +45,7 @@ Want to tell me something about the product?/ Want to have one?
 ###### ➡️[Click here to do the questionaire!](https://v.wjx.cn/vm/Q2Frjo2.aspx#)📝
 
 -Questionaire link2: For users who used the first generation
-###### 👉[Click here to do the questionaire!](https://www.wjx.cn/vm/Q72F9Z0.aspx# )
+###### 👉[If you are the user? Click here to do the questionaire!](https://www.wjx.cn/vm/Q72F9Z0.aspx# )
 
 ---
 
