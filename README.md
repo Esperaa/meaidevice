@@ -15,7 +15,7 @@
 
 ### Outdoor Fall-Accident Detection
 
-Click the picture access details on my Official Account!
+
 > ![DATA](V11.png)
 
 ---
