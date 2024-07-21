@@ -7,7 +7,7 @@
 ###### Falling acidents often occur among elderly people. When they are alone at home or elsewhere, falling could be dangerous to them since they may get injuried without prompt cures. Some technology companies have developed intelligent watches possess the function of detecting fallings. However, there are always elderly people that cannot afford the expansive watches. Moreover, intelligent watches not easy for some of them to use. To solve this problem, I am keeping dedicating to develop a automatic fall-accident detection device, which only has one function (which is easy to use ): precisely detect the accidents and tell the emergence to their family members or others. Currently, this device is free. // The cost of making such a device is only 1/15 of buying a watch. I will keep improving the device in both the aspect of hardware and software to make it more practical.
 
 ---
-###### (The picture loading could be slow...)
+###### (The picture loading could be slow...🐌)
 
 
 
