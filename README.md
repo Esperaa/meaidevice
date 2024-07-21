@@ -1,11 +1,12 @@
 # FREE Device for AUTOMATIC Fall-Accident Detection !
 
 
-### Initiative for developing these Free devices:
-###### Falling acidents often occur among the elderly people. When they are alone at home or elsewhere, falling could be dangerous to them because they could get injuried without prompt cures. Such accidents is happening everyday. Some technology companies have developed intelligent watches to solve this problem. However, in some undeveloped country, the elderlys may not have the opportunity to get these watches since they are quite expansive. Moreover, it is not easy for them to use. To solve this problem, I generated the idea: developing a automatic fall-accident detection device, which only has one function: precisely detect the accident and tell the emergence to their family members or others to get prompt cure or other treatments. This device is easy to use and free. Actually, the cost of making such a device is only 1/10 of buying a watch. I will keep improving the device in both the aspect of hardware and software to make it more useful and cheap.
-
+#### Initiative for developing these Free devices:
 
 **_These devices are developed for: The elderly, disables and children._**
+###### Falling acidents often occur among elderly people. When they are alone at home or elsewhere, falling could be dangerous to them since they may get injuried without prompt cures. Some technology companies have developed intelligent watches possess the function of detecting fallings. However, there are always elderly people that cannot afford the expansive watches. Moreover, intelligent watches not easy for some of them to use. To solve this problem, I am keeping dedicating to develop a automatic fall-accident detection device, which only has one function (which is easy to use ): precisely detect the accidents and tell the emergence to their family members or others. Currently, this device is free. // The cost of making such a device is only 1/15 of buying a watch. I will keep improving the device in both the aspect of hardware and software to make it more practical.
+
+---
 ###### (The picture loading could be slow...)
 
 
