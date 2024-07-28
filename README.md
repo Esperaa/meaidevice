@@ -7,7 +7,7 @@
 ###### You may use the Browser webpage translation to translate to another language
 
 
-## Products
+## Product
 
 ### Outdoor Fall-Accident Detection
 
