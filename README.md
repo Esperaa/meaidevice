@@ -8,7 +8,7 @@
 
 ---
 ###### (The picture loading could be slow...🐌)
-
+###### You may use the Browser webpage translation to translate to another language
 
 
 ## Products
