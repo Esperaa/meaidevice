@@ -31,7 +31,7 @@ Want to tell me something about the product?/ Want to have one?
 ###### 👉email to: Fall_detectemail@qq.com
 
 
-## You can also follow my official account!
+### You can also follow my official account!
 
 > **Interested?**
 > 
@@ -40,7 +40,7 @@ Want to tell me something about the product?/ Want to have one?
 
 <img width="255" alt="OA_副本" src="https://github.com/Esperaa/meaidevice/assets/156643030/228ad1d2-c708-4956-82b1-a82b929415d9">
 
-#### Renovations
+#### Questionaire for Renovations
 
 
 -Questionaire link 1: For viewpoints on designing this device
