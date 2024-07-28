@@ -26,12 +26,12 @@
 
 ---
 
-##### Feedbacks
+#### Feedbacks
 Want to tell me something about the product?/ Want to have one?
 ###### 👉email to: Fall_detectemail@qq.com
 
 
-## Follow Me!
+## You can also follow my official account!
 
 > **Interested?**
 > 
