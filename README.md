@@ -14,11 +14,12 @@
  ![DATA](V11.png)
 
 ---
+Want more info on the device? see here!
 ####  [Chick here to access more details about the device!](https://esperaa.github.io/fallingdetect/)
 
 ---
 
-How to use? or other infos? see here!
+How to use? or other info? see here!
 #### [Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
 
 ---
