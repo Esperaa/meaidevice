@@ -2,7 +2,6 @@
 
 
 
----
 ###### (The picture loading could be slow...🐌)
 ###### You may use the Browser webpage translation to translate to another language
 
@@ -15,7 +14,12 @@
  ![DATA](V11.png)
 
 ---
-> ######  [Chick here to access more details about the device!](https://esperaa.github.io/fallingdetect/)
+####  [Chick here to access more details about the device!](https://esperaa.github.io/fallingdetect/)
+
+---
+
+How to use? or other infos? see here!
+#### [Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
 
 ---
 #### Initiative for developing these Free devices:
