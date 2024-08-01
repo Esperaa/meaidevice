@@ -15,12 +15,12 @@
 
 ---
 Want more info on the device? see here!
-####  [Chick here to access more details about the device!](https://esperaa.github.io/fallingdetect/)
+####  👉[Chick here to access more details about the device!](https://esperaa.github.io/fallingdetect/)
 
 ---
 
 How to use? or other info? see here!
-#### [Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
+#### 👉[Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
 
 ---
 #### Initiative for developing these Free devices:
