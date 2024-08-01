@@ -43,7 +43,7 @@ Want to tell me something about the product?/ Want to have one?
 > Subscribe my Official Account[「智能与机械探索」](https://esperaa.github.io/WebextensionforAutome-/)and DM to me!
 > 
 
-<img width="255" alt="OA_副本" src="https://github.com/Esperaa/meaidevice/assets/156643030/228ad1d2-c708-4956-82b1-a82b929415d9">
+![DATA](OA2.png)
 
 #### Questionaire for Renovations
 
