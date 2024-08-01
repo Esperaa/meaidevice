@@ -15,7 +15,7 @@
  ![DATA](V11.png)
 
 ---
-> ######  [Chick here to access more details about the device!](https://esperaa.github.io/Moreinfos/)
+> ######  [Chick here to access more details about the device!](https://esperaa.github.io/fallingdetect/)
 
 ---
 #### Initiative for developing these Free devices:
