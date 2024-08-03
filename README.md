@@ -1,9 +1,9 @@
-# FREE Device for AUTOMATIC Fall-Accident Detection !
+# 公益智能跌倒检测装置
 
 
+##### **_这些免费装置的目标人群是低收入的老年人，残疾人._**
+##### **_These devices are specially designed for low-income individuals(elderly, disables)._**
 
-###### (The picture loading could be slow...🐌)
-###### You may use the Browser webpage translation to translate to another language
 
 
 ## Product
