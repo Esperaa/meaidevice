@@ -40,7 +40,7 @@
 
 > **感兴趣?**
 > 
-> 关注我的公众号[「智能与机械探索」](https://esperaa.github.io/WebextensionforAutome-/)and DM to me!
+> 关注我的公众号[「智能与机械探索」](https://mp.weixin.qq.com/s/3Xchh00gAuqtd4T-2_1xkQ)and DM to me!
 > 
 
 ![DATA](OA2.png)
