@@ -1,5 +1,6 @@
-# 免费智能跌倒检测装置
+# 人体跌倒检测装置
 
+##### 这是一个专为低收入人群开发设计的低成本装置
 
 ###### *You may use the browser's webpage translation feature to translate🙂.
 
@@ -10,8 +11,10 @@
 
 
 
-## 产品 
-#### 这是一个为低收入老年人，残疾人提供的免费跌倒检测报警装置
+## 产品
+
+######
+
 ##### Version1.0
 
  ![DATA](V11.png)
