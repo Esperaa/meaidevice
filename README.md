@@ -12,13 +12,13 @@
  ![DATA](V11.png)
 
 ---
-Want more info on the device? see here!
-####  👉[Chick here to access more details about the device!](https://esperaa.github.io/fallingdetect/)
+想要知道关于产品的详细信息？点击下方链接！
+####  👉[产品详细信息](https://esperaa.github.io/fallingdetect/)
 
 ---
 
-How to use? or other info? see here!
-#### 👉[Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
+怎么使用？其他信息？尽在下方链接！
+#### 👉[产品说明书](https://esperaa.github.io/WebextensionforAutome-/)
 
 ---
 #### Initiative for developing these Free devices:
