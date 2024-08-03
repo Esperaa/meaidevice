@@ -1,12 +1,12 @@
 # 公益智能跌倒检测装置
 
 
-##### **_这些免费装置的目标人群是低收入的老年人，残疾人._**
-##### **_These devices are specially designed for low-income individuals(elderly, disables)._**
+###### You may use the browser's webpage translation feature to translate the content into other languages🙂.
 
 
 
-## 产品 Product
+
+## 产品 
 ###### Version1.0
 
  ![DATA](V11.png)
