@@ -26,11 +26,11 @@
 #### 👉[产品说明书](https://esperaa.github.io/WebextensionforAutome-/)
 
 ---
-#### Initiative for developing these Free devices:
+#### 设计此产品的目的
 
-**_These devices are developed for: The elderly, disables and children._**
-###### Falling acidents often occur among elderly people. When they are alone at home or elsewhere, falling could be dangerous to them since they may get injuried without prompt cures. Some technology companies have developed intelligent watches possess the function of detecting fallings. However, there are always elderly people that cannot afford the expansive watches. Moreover, intelligent watches not easy for some of them to use. To solve this problem, I am keeping dedicating to develop a automatic fall-accident detection device, which only has one function (which is easy to use ): precisely detect the accidents and tell the emergence to their family members or others. Currently, this device is free. // The cost of making such a device is only 1/15 of buying a watch. I will keep improving the device in both the aspect of hardware and software to make it more practical.
+**_这些设备是为：老年人、残疾人和儿童开发的。_**
 
+###### 老年人常常发生摔倒事故。当他们独自在家或其他地方时，摔倒可能会对他们造成危险，因为他们可能在没有及时救治的情况下受伤。一些科技公司开发了具有摔倒检测功能的智能手表。然而，仍然有一些老年人无法负担这些昂贵的手表。此外，对于他们来说，智能手表也不容易使用。为了解决这个问题，我一直致力于开发一种自动摔倒事故检测设备，该设备只有一个功能（且操作简单）：精确检测事故并通知他们的家人或其他人。目前，这种设备是免费发放的。 而且，制作这样一个设备的成本仅为购买手表的1/15。我将继续在硬件和软件方面改进该设备，使其更实用。
 
 ---
 
