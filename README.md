@@ -3,7 +3,7 @@
 
 ###### *You may use the browser's webpage translation feature to translate🙂.
 
-###### *（The pictures on this page may may take some time to load. Thanks for your patience.)
+###### *The pictures on this page may may take some time to load. Thanks for your patience.
 
 
 
