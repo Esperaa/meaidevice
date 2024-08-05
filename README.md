@@ -55,6 +55,8 @@
 ###### 👉[点击填写问卷2](https://www.wjx.cn/vm/Q72F9Z0.aspx# )
 
 ---
+###### 问卷调查数据总结与分析
+[点击查看](https://esperaa.github.io/Datacollection/)
 
 ##### 产品设计目的
 目标用户：低收入的老年人、残障人士、儿童及其他有需求的人士。
