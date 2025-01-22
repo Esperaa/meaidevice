@@ -43,7 +43,7 @@
 > 关注我的公众号[「物理与智能探索」](https://mp.weixin.qq.com/s/3Xchh00gAuqtd4T-2_1xkQ)and DM to me!
 > 
 
-![DATA](ofc.png)
+![DATA](ofc2.png)
 
 #### 问卷调查链接（用于获得意见，进行创新及改善）
 ##### 感谢你的支持！
